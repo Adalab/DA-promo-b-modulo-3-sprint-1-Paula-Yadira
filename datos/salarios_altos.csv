@@ -1,0 +1,11 @@
+,work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+25,2020,EX,FT,Director of Data Science,325000,USD,325000,US,100,US,L
+33,2020,MI,FT,Research Scientist,450000,USD,450000,US,0,US,M
+63,2020,SE,FT,Data Scientist,412000,USD,412000,US,100,US,L
+97,2021,MI,FT,Financial Data Analyst,450000,USD,450000,US,100,US,L
+157,2021,MI,FT,Applied Machine Learning Scientist,423000,USD,423000,US,50,US,L
+225,2021,EX,CT,Principal Data Scientist,416000,USD,416000,US,100,US,S
+252,2021,EX,FT,Principal Data Engineer,600000,USD,600000,US,100,US,L
+482,2022,EX,FT,Data Engineer,324000,USD,324000,US,100,US,M
+519,2022,SE,FT,Applied Data Scientist,380000,USD,380000,US,100,US,L
+523,2022,SE,FT,Data Analytics Lead,405000,USD,405000,US,100,US,L
