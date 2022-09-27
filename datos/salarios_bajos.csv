@@ -1,15 +1,11 @@
 ,work_year,experience_level,employment_type,job_title,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
-0,2020,Mid-Level,Full-Time,Data Scientist,79833,DE,0,DE,L
 5,2020,Entry-Level,Full-Time,Data Analyst,72000,US,100,US,L
 8,2020,Mid-Level,Full-Time,Business Data Analyst,135000,US,100,US,L
 10,2020,Entry-Level,Full-Time,Data Scientist,51321,FR,0,FR,S
 11,2020,Mid-Level,Full-Time,Data Scientist,40481,IN,0,IN,L
 12,2020,Entry-Level,Full-Time,Data Scientist,39916,FR,0,FR,M
 14,2020,Mid-Level,Full-Time,Data Analyst,85000,US,100,US,L
-28,2020,Entry-Level,Contract,Business Data Analyst,100000,US,100,US,L
-32,2020,Senior,Full-Time,Data Scientist,68428,GR,100,US,L
 34,2020,Mid-Level,Full-Time,Data Analyst,46759,FR,50,FR,L
-40,2020,Mid-Level,Full-Time,Data Scientist,45760,PH,100,US,S
 43,2020,Mid-Level,Full-Time,Data Engineer,106000,US,100,US,L
 44,2020,Mid-Level,Full-Time,Data Engineer,112872,GB,50,GB,L
 46,2020,Mid-Level,Full-Time,Data Scientist,76958,GB,100,GB,S
@@ -18,22 +14,18 @@
 49,2020,Mid-Level,Full-Time,Data Engineer,70139,FR,50,FR,L
 50,2020,Entry-Level,Full-Time,Data Analyst,6072,IN,0,IN,S
 51,2020,Entry-Level,Full-Time,Data Analyst,91000,US,100,US,L
-53,2020,Entry-Level,Full-Time,Data Engineer,54742,PK,100,DE,L
 56,2020,Mid-Level,Full-Time,Data Scientist,38776,ES,100,ES,M
 57,2020,Mid-Level,Full-Time,Data Scientist,118000,US,100,US,M
 58,2020,Senior,Full-Time,Data Scientist,120000,US,50,US,L
 59,2020,Mid-Level,Full-Time,Data Scientist,138350,US,100,US,M
 60,2020,Mid-Level,Full-Time,Data Engineer,110000,US,100,US,L
 61,2020,Mid-Level,Full-Time,Data Engineer,130800,ES,100,US,M
-65,2020,Entry-Level,Full-Time,Data Scientist,62726,DE,50,DE,S
-66,2020,Entry-Level,Full-Time,Data Scientist,49268,DE,0,DE,S
 68,2020,Entry-Level,Full-Time,Data Scientist,105000,US,100,US,S
 71,2020,Mid-Level,Full-Time,Data Scientist,42197,FR,50,FR,S
 75,2021,Senior,Full-Time,Data Scientist,53192,FR,50,FR,L
 79,2021,Entry-Level,Full-Time,Data Analyst,80000,US,100,US,M
 81,2021,Mid-Level,Full-Time,Data Engineer,140000,US,100,US,L
 86,2021,Entry-Level,Full-Time,Data Analyst,59102,FR,50,FR,M
-89,2021,Senior,Full-Time,Data Analyst,80000,BG,100,US,S
 94,2021,Entry-Level,Full-Time,Data Scientist,29751,IN,50,IN,L
 100,2021,Mid-Level,Full-Time,Data Analyst,75000,US,0,US,L
 101,2021,Senior,Full-Time,Data Engineer,150000,US,100,US,L
@@ -46,7 +38,6 @@
 118,2021,Entry-Level,Full-Time,Data Analyst,90000,US,100,US,S
 119,2021,Mid-Level,Full-Time,Data Engineer,200000,US,100,US,L
 122,2021,Entry-Level,Full-Time,Data Analyst,50000,US,100,US,M
-124,2021,Entry-Level,Part-Time,Data Analyst,10354,ES,50,ES,M
 127,2021,Mid-Level,Full-Time,Data Scientist,9466,IN,0,IN,S
 131,2021,Entry-Level,Full-Time,Data Scientist,49646,FR,50,FR,M
 134,2021,Entry-Level,Full-Time,Data Scientist,100000,US,0,US,S
@@ -62,21 +53,14 @@
 171,2021,Mid-Level,Full-Time,Data Engineer,82528,GB,100,GB,L
 172,2021,Entry-Level,Full-Time,Data Analyst,60000,US,100,US,S
 179,2021,Mid-Level,Full-Time,Data Scientist,5679,IN,100,US,S
-181,2021,Mid-Level,Full-Time,Data Scientist,90734,DE,50,DE,L
-182,2021,Mid-Level,Full-Time,Data Engineer,26005,RO,0,US,L
-188,2021,Senior,Full-Time,Data Engineer,76833,RO,50,GB,S
 195,2021,Mid-Level,Full-Time,Data Scientist,147000,US,50,US,L
 202,2021,Mid-Level,Full-Time,Data Scientist,37825,ES,100,ES,L
 204,2021,Mid-Level,Full-Time,Data Scientist,160000,US,100,US,L
 207,2021,Senior,Full-Time,Data Engineer,165000,US,0,US,M
-208,2021,Mid-Level,Freelance,Data Engineer,20000,IT,0,US,L
-212,2021,Mid-Level,Full-Time,Data Engineer,66022,HK,50,GB,S
-217,2021,Mid-Level,Full-Time,Data Scientist,90734,DE,50,DE,L
 221,2021,Mid-Level,Full-Time,Data Scientist,116914,GB,50,GB,L
 222,2021,Mid-Level,Full-Time,Data Scientist,33808,IN,0,IN,M
 223,2021,Mid-Level,Full-Time,Data Scientist,56256,GB,50,GB,L
 226,2021,Senior,Full-Time,Data Scientist,87738,CA,100,CA,S
-227,2021,Mid-Level,Full-Time,Data Scientist,88654,DE,50,DE,L
 228,2021,Senior,Full-Time,Data Scientist,135000,US,0,US,L
 229,2021,Senior,Full-Time,Data Analyst,71786,CA,100,CA,M
 233,2021,Senior,Full-Time,Data Analyst,200000,US,100,US,L
@@ -95,12 +79,9 @@
 254,2021,Mid-Level,Full-Time,Data Analyst,93000,US,100,US,L
 256,2021,Mid-Level,Full-Time,Data Engineer,200000,US,100,US,L
 260,2021,Mid-Level,Full-Time,Data Scientist,130000,US,50,US,L
-261,2021,Senior,Full-Time,Data Analyst,63831,DE,50,DE,L
 262,2021,Mid-Level,Full-Time,Data Scientist,16904,IN,100,IN,S
-264,2021,Mid-Level,Full-Time,Data Scientist,25532,RS,100,DE,S
 266,2021,Mid-Level,Full-Time,Data Engineer,93150,US,0,US,M
 267,2021,Mid-Level,Full-Time,Data Engineer,111775,US,0,US,M
-269,2021,Entry-Level,Full-Time,Data Engineer,65013,DE,50,DE,M
 270,2021,Entry-Level,Full-Time,Data Engineer,72500,US,100,US,L
 274,2021,Senior,Full-Time,Data Scientist,77684,FR,50,FR,M
 275,2021,Entry-Level,Full-Time,Data Scientist,100000,US,100,US,M
@@ -233,7 +214,6 @@
 456,2022,Senior,Full-Time,Data Engineer,105000,US,100,US,M
 458,2022,Mid-Level,Full-Time,Business Data Analyst,18442,IN,100,IN,M
 459,2022,Mid-Level,Full-Time,Data Scientist,31615,IN,100,IN,L
-462,2022,Mid-Level,Part-Time,Data Engineer,54957,DE,50,DE,L
 463,2022,Entry-Level,Full-Time,Data Scientist,18442,IN,100,IN,M
 465,2022,Entry-Level,Full-Time,Data Engineer,120000,US,100,US,M
 467,2022,Senior,Full-Time,Data Scientist,104890,US,100,US,M
@@ -251,15 +231,11 @@
 483,2022,Executive Level,Full-Time,Data Engineer,216000,US,100,US,M
 484,2022,Senior,Full-Time,Data Engineer,210000,US,100,US,M
 486,2022,Senior,Full-Time,Data Scientist,230000,US,100,US,M
-488,2022,Mid-Level,Freelance,Data Scientist,100000,CA,100,US,M
-494,2022,Senior,Full-Time,Data Scientist,100000,BR,100,US,M
-496,2022,Entry-Level,Full-Time,Data Engineer,58035,PK,100,DE,M
 497,2022,Senior,Full-Time,Data Scientist,165000,US,100,US,M
 499,2022,Entry-Level,Full-Time,Data Scientist,52396,CA,100,CA,L
 504,2022,Senior,Full-Time,Data Engineer,115000,US,100,US,M
 511,2022,Mid-Level,Full-Time,Business Data Analyst,70912,CA,50,CA,L
 512,2022,Entry-Level,Full-Time,Data Engineer,65000,US,100,US,S
-515,2022,Mid-Level,Full-Time,Data Scientist,48000,RU,100,US,S
 517,2022,Mid-Level,Full-Time,Data Engineer,68147,FR,100,FR,M
 520,2022,Mid-Level,Full-Time,Data Scientist,69336,CA,100,CA,M
 524,2022,Mid-Level,Full-Time,Data Scientist,135000,US,100,US,L
