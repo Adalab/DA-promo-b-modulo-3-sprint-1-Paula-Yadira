@@ -1,11 +1,5 @@
 ,work_year,experience_level,employment_type,job_title,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
-25,2020,Executive Level,Full-Time,Director of Data Science,325000,US,100,US,L
-33,2020,Mid-Level,Full-Time,Research Scientist,450000,US,0,US,M
 63,2020,Senior,Full-Time,Data Scientist,412000,US,100,US,L
-97,2021,Mid-Level,Full-Time,Financial Data Analyst,450000,US,100,US,L
-157,2021,Mid-Level,Full-Time,Applied Machine Learning Scientist,423000,US,50,US,L
-225,2021,Executive Level,Contract,Principal Data Scientist,416000,US,100,US,S
-252,2021,Executive Level,Full-Time,Principal Data Engineer,600000,US,100,US,L
+337,2022,Senior,Full-Time,Data Engineer,243900,US,100,US,M
+416,2022,Senior,Full-Time,Data Scientist,260000,US,100,US,M
 482,2022,Executive Level,Full-Time,Data Engineer,324000,US,100,US,M
-519,2022,Senior,Full-Time,Applied Data Scientist,380000,US,100,US,L
-523,2022,Senior,Full-Time,Data Analytics Lead,405000,US,100,US,L
